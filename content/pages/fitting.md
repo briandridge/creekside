@@ -2,11 +2,11 @@
 template: HomePage
 slug: 'fitting'
 title: Fitting
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
 subtitle: ' World class bike fitting blurb.'
 meta:
   description: information about bicycle fitting.
-  title: Bicycle Fitting
+  title: Fitting
 ---
 
 Lorem ipsum dolor amet dIY lyft umami lo-fi, cloud bread salvia heirloom. Etsy prism man bun post-ironic banjo.

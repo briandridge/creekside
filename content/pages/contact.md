@@ -13,7 +13,7 @@ locations:
     mapLink: ''
 meta:
   description: Creekside bikes contact information.
-  title: Contact Page
+  title: Contact
 ---
 
 <!-- # Example contact form

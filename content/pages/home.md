@@ -2,11 +2,11 @@
 template: HomePage
 slug: ''
 title: Creekside Bikes
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/'
 subtitle: ' Small high-end luxury bicycle retailer offering world class fit and service to the greater Denver area.'
 meta:
   description: Creekside bikes.
-  title: Creekside Bikes
+  title: Home
 ---
 
 Creekside Bikes is small high-end luxury bicycle retailer offering world class fit and service to the greater Denver area.
