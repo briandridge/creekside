@@ -5,7 +5,7 @@ title: Creekside Bikes
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Small high-end luxury bicycle retailer offering world class fit and service to the greater Denver area.'
 meta:
-  description: Creeks.
+  description: Creekside bikes.
   title: Creekside Bikes
 ---
 

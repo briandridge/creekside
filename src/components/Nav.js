@@ -9,7 +9,7 @@ import './Nav.css'
 export class Navigation extends Component {
   state = {
     active: false,
-    activeSubNav: false,
+    // activeSubNav: false,
     currentPath: false
   }
 
@@ -21,14 +21,14 @@ export class Navigation extends Component {
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
 
-  toggleSubNav = subNav =>
-    this.setState({
-      activeSubNav: this.state.activeSubNav === subNav ? false : subNav
-    })
+  // toggleSubNav = subNav =>
+  //   this.setState({
+  //     activeSubNav: this.state.activeSubNav === subNav ? false : subNav
+  //   })
 
   render() {
     const { active } = this.state,
-      { subNav } = this.props,
+      // { subNav } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
@@ -50,8 +50,8 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
-            <div
+            <NavLink to="/bicycles/">Bicycles</NavLink>
+            {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
@@ -82,9 +82,11 @@ export class Navigation extends Component {
                   </NavLink>
                 ))}
               </div>
-            </div>
-            <NavLink to="/default/">Default</NavLink>
+            </div> */}
+            <NavLink to="/service/">Service</NavLink>
+            <NavLink to="/fitting/">Fitting</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/about/">About</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
