@@ -12,11 +12,11 @@ locations:
     lng: '153.2432449'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Creekside bikes contact information.
+  title: Contact
 ---
 
-# Example contact form
+<!-- # Example contact form
 
 This form is setup to use Netlify's form handling:
 
@@ -24,4 +24,4 @@ This form is setup to use Netlify's form handling:
 - a name attribute is sent with the form's data `'form-name': 'Contact'`
 - netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/). -->
